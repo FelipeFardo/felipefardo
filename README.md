@@ -12,7 +12,6 @@ My name is Felipe Fardo, I am 23 years old and I am from Rio Grande do Sul. I ha
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -20,7 +19,6 @@ My name is Felipe Fardo, I am 23 years old and I am from Rio Grande do Sul. I ha
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -28,7 +26,6 @@ My name is Felipe Fardo, I am 23 years old and I am from Rio Grande do Sul. I ha
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -36,7 +33,6 @@ My name is Felipe Fardo, I am 23 years old and I am from Rio Grande do Sul. I ha
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
@@ -44,7 +40,6 @@ My name is Felipe Fardo, I am 23 years old and I am from Rio Grande do Sul. I ha
     alt="React"
     title="React" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
@@ -52,7 +47,6 @@ My name is Felipe Fardo, I am 23 years old and I am from Rio Grande do Sul. I ha
     alt="Next.js" 
     title="Next.js"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
@@ -60,7 +54,6 @@ My name is Felipe Fardo, I am 23 years old and I am from Rio Grande do Sul. I ha
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img
@@ -68,7 +61,6 @@ My name is Felipe Fardo, I am 23 years old and I am from Rio Grande do Sul. I ha
     alt="AWS" 
     title="AWS"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img
     align="left" 
@@ -109,7 +101,6 @@ My name is Felipe Fardo, I am 23 years old and I am from Rio Grande do Sul. I ha
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=felipefardo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
