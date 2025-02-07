@@ -7,6 +7,7 @@ My name is Felipe Fardo, I am 23 years old and I am from Rio Grande do Sul. I ha
 ---
 
 ### 🤖 Languages and Technologies
+
 <img 
     align="left" 
     alt="HTML"
@@ -97,18 +98,16 @@ My name is Felipe Fardo, I am 23 years old and I am from Rio Grande do Sul. I ha
 ### 📊 Statistics
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=felipefardo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-
-<img 
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=felipefardo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+      />
+    <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefardo&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-
+      />
 </p>
