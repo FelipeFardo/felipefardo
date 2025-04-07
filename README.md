@@ -2,7 +2,7 @@
 
 **`Front-End Engineer`**
 
-My name is Felipe Fardo, I am 23 years old and I am from Rio Grande do Sul. I have a degree in Computer Science. I am a Front-End Engineer passionate about transforming ideas into intuitive and engaging interfaces. With experience in JavaScript, TypeScript, React, and Next.js, I develop high-performance, accessible applications that deliver outstanding user experiences.
+My name is Felipe Fardo, I am 23 years old and I am from Rio Grande do Sul. I have a degree in Computer Science. I'm a Software Engineer focused on building modern web applications with JavaScript, TypeScript, React, and Next.js. I'm currently exploring AI and Data Analytics to develop smarter and more impactful solutions.
 
 ---
 
