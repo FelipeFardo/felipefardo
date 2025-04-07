@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Felipe Fardo
 
-**`Front-End Engineer`**
+**`Software Engineer`**
 
 My name is Felipe Fardo, I am 23 years old and I am from Rio Grande do Sul. I have a degree in Computer Science. I'm a Software Engineer focused on building modern web applications with JavaScript, TypeScript, React, and Next.js. I'm currently exploring AI and Data Analytics to develop smarter and more impactful solutions.
 
