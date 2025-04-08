@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 Atualmente Aprendendo
+## 🧠 Currently Learning
 
 Building applications with AI and LLMs
 
