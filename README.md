@@ -1,17 +1,12 @@
 <h1 align="center">👨🏻‍💻 Felipe Fardo</h1>
 <h3 align="center">Software Engineer • Frontend Specialist • AI Enthusiast</h3>
-
-<p align="center">
-  Sou um desenvolvedor apaixonado por tecnologia, natural do Rio Grande do Sul 🇧🇷, formado em Ciência da Computação. Tenho 23 anos e atuo como engenheiro de software com foco no desenvolvimento de aplicações web modernas, escaláveis e intuitivas utilizando JavaScript, TypeScript, React e Next.js. 
-  <br/><br/>
-  Atualmente explorando o mundo da Inteligência Artificial e Análise de Dados para criar soluções mais inteligentes e impactantes.
-</p>
+<p align="center"> I'm a developer passionate about technology, born in Rio Grande do Sul 🇧🇷, with a degree in Computer Science. I'm 23 years old and work as a software engineer focused on building modern, scalable, and intuitive web applications using JavaScript, TypeScript, React, and Next.js. <br/><br/> Currently diving into the world of Artificial Intelligence and Data Analytics to create smarter and more impactful solutions. </p>
 
 ---
 
 ## 🚀 Tech Stack
 
-**Principais tecnologias que utilizo no dia a dia:**
+**Main technologies I work with daily:**
 
 <div align="center">
   <img title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
@@ -35,10 +30,18 @@
 
 ## 🧠 Atualmente Aprendendo
 
-- Desenvolvimento de aplicações com **AI e LLMs**
-- Ferramentas de **Data Analytics** com Python
-- Deploy de aplicações escaláveis com **Docker + AWS**
-- Estudando a cultura de colaboração e automação com **DevOps**
+Building applications with AI and LLMs
+
+Data Analytics tools using Python
+
+Deploying scalable applications with Docker + AWS
+
+Learning about collaboration culture and automation with DevOps
+
+- Building applications with **AI and LLMs**
+- **Data Analytics** tools using Python
+- Deploying scalable applications with **Docker + AWS**
+- Learning about collaboration culture and automation with **DevOps**
 ---
 
 
@@ -51,13 +54,10 @@
 
 ---
 
-## 📬 Vamos conversar?
-
+## 📬Let’s Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/felipefardo)
 - 📫 Email: **felipe.fardo@hotmail.com.br**
 
 ---
 
-<p align="center">
-  <i>“A melhor maneira de prever o futuro é criá-lo.”</i> – Alan Kay
-</p>
+<p align="center"> <i>“The best way to predict the future is to create it.”</i> – Alan Kay </p>
