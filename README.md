@@ -1,5 +1,5 @@
 <h1 align="center">👨🏻‍💻 Felipe Fardo</h1>
-<h3 align="center">Software Engineer • AI Enthusiast</h3>
+<h3 align="center">Software Engineer • AI Engineer</h3>
 <p align="center"> I'm a developer passionate about technology, born in Rio Grande do Sul 🇧🇷, with a degree in Computer Science. I'm 23 years old and work as a software engineer focused on building modern, scalable, and intuitive web applications using JavaScript, TypeScript, React, and Next.js. <br/><br/> Currently diving into the world of Artificial Intelligence and Data Analytics to create smarter and more impactful solutions. </p>
 
 ---
