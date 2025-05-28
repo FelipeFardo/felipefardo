@@ -1,49 +1,61 @@
 <h1 align="center">👨🏻‍💻 Felipe Fardo</h1>
-<h3 align="center">Software Engineer • AI Engineer</h3>
-<p align="center"> I'm a developer passionate about technology, born in Rio Grande do Sul 🇧🇷, with a degree in Computer Science. I'm 23 years old and work as a software engineer focused on building modern, scalable, and intuitive web applications using JavaScript, TypeScript, React, and Next.js. <br/><br/> Currently diving into the world of Artificial Intelligence and Data Analytics to create smarter and more impactful solutions. </p>
+<h3 align="center">Software Engineer • Chatbots • AI Enthusiast</h3>
+
+<p align="center">
+  Hello! I'm a developer passionate about technology, born in Rio Grande do Sul 🇧🇷, with a degree in Computer Science.<br/>
+  I'm 24 years old and currently working on chatbot development while exploring the world of Artificial Intelligence and Automations to build smarter and more impactful solutions.<br/><br/>
+</p>
 
 ---
 
 ## 🚀 Tech Stack
 
-**Main technologies I work with daily:**
+### Artificial Intelligence & Automations
+<div align="left">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=3776AB" width="80" />
+  <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&logoColor=150458" width="80" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E" width="80" />
+  <img src="https://img.shields.io/badge/-Crew_AI-05122A?style=flat&logo=crewai&logoColor=white" width="80" />
+  <img src="https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain&logoColor=white" width="80" />
+  <img src="https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n&logoColor=EF6830" width="60" />
+</div>
 
-<div align="center">
-  <img title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
-  <img title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
-  <img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
-  <img title="TypeScript" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
-  <img title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
-  <img title="Next.js" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" />
-  <img title="Tailwind CSS" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" />
-  <img title="Node.js" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" />
-  <img title="GraphQL" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="40" />
-  <img title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" />
-  <img title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" />
-  <img title="AWS" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
-  <img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
-  <img title="Pandas" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" />
-  <img title="Scikit-learn" alt="Scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" />
+### Front-End
+<div align="left">
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" width="80" />
+  <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6" width="80" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=F7DF1E" width="80" />
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=3178C6" width="80" />
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB" width="80" />
+  <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js&logoColor=FFFFFF" width="80" />
+  <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=TailwindCSS&logoColor=38B2AC" width="80" />
+</div>
+
+### Back-End
+<div align="left">
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor=339933" width="80" />
+  <img src="https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL&logoColor=E10098" width="80" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=336791" width="80" />
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=2496ED" width="80" />
+  <img src="https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=85EA2D" width="80" />
+</div>
+
+### DevOps
+<div align="left">
+  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-web-services&logoColor=FF9900" width="80" />
+  <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=7B42BC" width="80" />
+  <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes&logoColor=326CE5" width="80" />
+  <img src="https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana&logoColor=F46800" width="80" />
 </div>
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 What I'm Learning
 
-Building applications with AI and LLMs
+- Developing applications with **AI and Language Models (LLMs)**
+- Adopting DevOps practices for **automation and collaboration**
 
-Data Analytics tools using Python
-
-Deploying scalable applications with Docker + AWS
-
-Learning about collaboration culture and automation with DevOps
-
-- Building applications with **AI and LLMs**
-- **Data Analytics** tools using Python
-- Deploying scalable applications with **Docker + AWS**
-- Learning about collaboration culture and automation with **DevOps**
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -54,10 +66,12 @@ Learning about collaboration culture and automation with DevOps
 
 ---
 
-## 📬Let’s Connect
+## 📬 Let's Connect
+
 - 🌐 [LinkedIn](https://www.linkedin.com/in/felipefardo)
 - 📫 Email: **felipe.fardo@hotmail.com.br**
 
 ---
 
-<p align="center"> <i>“The best way to predict the future is to create it.”</i> – Alan Kay </p>
+<p align="center"><i>“We can only see a short distance ahead, but we can see plenty there that needs to be done.”</i> – Alan Turing</p>
+
