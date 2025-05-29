@@ -1,5 +1,5 @@
 <h1 align="center">👨🏻‍💻 Felipe Fardo</h1>
-<h3 align="center">Software Engineer • Chatbots • AI Enthusiast</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   Hello! I'm a developer passionate about technology, born in Rio Grande do Sul 🇧🇷, with a degree in Computer Science.<br/>
