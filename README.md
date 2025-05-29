@@ -14,9 +14,9 @@
 <div align="left">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=3776AB" width="80" />
   <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&logoColor=150458" width="80" />
-  <img src="https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E" width="80" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E" width="110" />
   <img src="https://img.shields.io/badge/-Crew_AI-05122A?style=flat&logo=crewai&logoColor=white" width="80" />
-  <img src="https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain&logoColor=white" width="80" />
+  <img src="https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain&logoColor=white" width="100" />
   <img src="https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n&logoColor=EF6830" width="60" />
 </div>
 
@@ -24,28 +24,28 @@
 <div align="left">
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" width="80" />
   <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6" width="80" />
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=F7DF1E" width="80" />
-  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=3178C6" width="80" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=F7DF1E" width="100" />
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=3178C6" width="100" />
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB" width="80" />
   <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js&logoColor=FFFFFF" width="80" />
-  <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=TailwindCSS&logoColor=38B2AC" width="80" />
+  <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=TailwindCSS&logoColor=38B2AC" width="90" />
 </div>
 
 ### Back-End
 <div align="left">
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor=339933" width="80" />
   <img src="https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL&logoColor=E10098" width="80" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=336791" width="80" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=336791" width="100" />
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=2496ED" width="80" />
-  <img src="https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=85EA2D" width="80" />
+  <img src="https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=85EA2D" width="100" />
 </div>
 
 ### DevOps
 <div align="left">
   <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-web-services&logoColor=FF9900" width="80" />
-  <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=7B42BC" width="80" />
-  <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes&logoColor=326CE5" width="80" />
-  <img src="https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana&logoColor=F46800" width="80" />
+  <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=7B42BC" width="100" />
+  <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes&logoColor=326CE5" width="110" />
+  <img src="https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana&logoColor=F46800" width="90" />
 </div>
 
 ---
