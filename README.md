@@ -23,7 +23,7 @@
 ### Front-End
 <div align="left">
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" width="80" />
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" width="70" />
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css&logoColor=1572B6" width="70" />
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=F7DF1E" width="120" />
   <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=3178C6" width="120" />
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB" width="90" />
@@ -42,7 +42,7 @@
 
 ### DevOps
 <div align="left">
-  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-web-services&logoColor=FF9900" width="78" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-05122A.svg?logo=aws&logoColor=FF9900" width="78" />
   <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=7B42BC" width="120" />
   <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes&logoColor=326CE5" width="130" />
   <img src="https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana&logoColor=F46800" width="105" />
