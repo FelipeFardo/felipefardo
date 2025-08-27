@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/-Crew_AI-05122A?style=flat&logo=crewai&logoColor=white" width="105" />
   <img src="https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain&logoColor=white" width="130" />
   <img src="https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n&logoColor=EF6830" width="80" />
+  <img src="https://img.shields.io/badge/-mcp-05122A?style=flat&logo=modelcontextprotocol&logoColor=white" width="80" />
 </div>
 
 ### Front-End
