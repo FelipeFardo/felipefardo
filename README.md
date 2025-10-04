@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  Hello! I'm a developer passionate about technology, born in Rio Grande do Sul 🇧🇷, with a degree in Computer Science.<br/>
+Hello! I'm a developer passionate about technology, born in Rio Grande do Sul 🇧🇷, with a degree in Computer Science and a postgraduate degree in Artificial Intelligence and Automation.<br/>
   I'm 24 years old and currently working on chatbot development while exploring the world of Artificial Intelligence and Automations to build smarter and more impactful solutions.<br/><br/>
 </p>
 
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=336791" width="130" />
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=2496ED" width="100" />
   <img src="https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=85EA2D" width="110" />
+  <img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=RabbitMQ&logoColor=FF6600" width="120" />
 </div>
 
 ### DevOps
@@ -49,12 +50,6 @@
   <img src="https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana&logoColor=F46800" width="105" />
 </div>
 
----
-
-## 🧠 What I'm Learning
-
-- Developing applications with **AI and Language Models (LLMs)**
-- Adopting DevOps practices for **automation and collaboration**
 
 ---
 
