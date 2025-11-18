@@ -40,7 +40,6 @@ Hello! I'm a developer passionate about technology, born in Rio Grande do Sul ðŸ
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000000" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </div>
 
 ### DevOps
