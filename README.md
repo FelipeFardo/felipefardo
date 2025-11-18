@@ -45,9 +45,11 @@ Hello! I'm a developer passionate about technology, born in Rio Grande do Sul ðŸ
 ### DevOps
 <div align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-05122A.svg?logo=aws&logoColor=FF9900" width="78" />
-  <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=7B42BC" width="120" />
   <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes&logoColor=326CE5" width="130" />
   <img src="https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana&logoColor=F46800" width="105" />
+  <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=7B42BC" width="120" />
+  <img alt="Pulumi" src="https://img.shields.io/badge/-Pulumi-05122A?style=flat&logo=Pulumi" width="100">
+
 </div>
 
 
