@@ -19,6 +19,7 @@ Hello! I'm a developer passionate about technology, born in Rio Grande do Sul �
   <img src="https://img.shields.io/badge/CrewAI-0F172A?logo=crewai&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EF6830?logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-202124?logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white"/>
 </div>
 
 ### Front-End
@@ -40,6 +41,7 @@ Hello! I'm a developer passionate about technology, born in Rio Grande do Sul �
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000000" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
 </div>
 
 ### DevOps
@@ -51,23 +53,7 @@ Hello! I'm a developer passionate about technology, born in Rio Grande do Sul �
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipefardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefardo&layout=compact&theme=tokyonight&langs_count=10" />
+### Desktop Applications
+<div align="left">
+  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" />
 </div>
-
----
-
-## 📬 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/felipefardo)
-- 📫 Email: **felipe.fardo@hotmail.com.br**
-
----
-
-<p align="center"><i>“We can only see a short distance ahead, but we can see plenty there that needs to be done.”</i> – Alan Turing</p>
-
