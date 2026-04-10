@@ -1,6 +1,3 @@
-<h1 align="center">👨🏻‍💻 Felipe Fardo</h1>
-<h3 align="center">Software Engineer</h3>
-
 <p align="center">
 Hello! I'm a developer passionate about technology, born in Rio Grande do Sul 🇧🇷, with a degree in Computer Science and a postgraduate degree in Artificial Intelligence and Automation.<br/>
   I'm 24 years old and currently working on chatbot development while exploring the world of Artificial Intelligence and Automations to build smarter and more impactful solutions.<br/><br/>
